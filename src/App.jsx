@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
-import WeatherDashboard from './components/WeatherDashboard'
-import ParticleCanvas from './components/ParticleCanvas'
-import ThemeToggle from './components/ThemeToggle'
+import WeatherDashboard from './Components/WeatherDashboard'
+import ParticleCanvas from './Components/ParticleCanvas'
+import ThemeToggle from './Components/ThemeToggle'
 import './App.css'
 
 function App() {
